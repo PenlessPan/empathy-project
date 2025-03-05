@@ -1,0 +1,35 @@
+# Core dependencies
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+tqdm>=4.62.0
+
+# Natural Language Processing
+transformers>=4.18.0
+torch>=1.10.0
+scikit-learn>=1.0.0
+regex>=2022.1.18
+
+# Audio Processing
+whisper>=1.0.0
+pyannote.audio>=2.0.0
+pydub>=0.25.1
+
+# Translation
+selenium>=4.1.0
+webdriver-manager>=3.8.0
+
+# API Access
+openai>=0.27.0
+huggingface-hub>=0.12.0
+
+# Data Visualization
+plotly>=5.5.0
+
+# Environment management
+python-dotenv>=0.20.0
+
+# Optional for interactive notebooks
+jupyter>=1.0.0
+ipywidgets>=7.7.0
